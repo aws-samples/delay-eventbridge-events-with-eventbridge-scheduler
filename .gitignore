@@ -1,0 +1,15 @@
+# Lambda zip files
+dynamodb-table-stream-lambda.zip
+expire-schedule-handler-lambda.zip
+expire-schedule-target-lambda.zip
+
+# Terraform
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate*
+
+.terraform.lock.hcl
+
+
