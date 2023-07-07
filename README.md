@@ -35,7 +35,7 @@ You can test out the infrastructure of delaying an event by adding the follow it
     "sk": "SampleSK",
     "epoch_time_of_flag": "<CURRENT_TIME_IN_EPOCH>", # Example: "1686601441"
     "expiration_time_in_minutes": "<HOW_MANY_MINUTES_TO_DELAY>", # Example: "30"
-    "expire_on_weekend": BOOLEAN # Example: false
+    "expire_on_weekend": BOOLEAN, # Example: false
     "time_zone": "<IANA_TIME_ZONE>", # Example: "America/New_York"
     "status": "REQUESTED"
 }
